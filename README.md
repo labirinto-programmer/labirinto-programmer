@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Web Developer And Designer Specializing In Front-End And Back-End.
-Using HTML, CSS, And JavaScript.
-Using Frameworks Such As React.Js, Node.Js, And Express.
+- 👩 Web Developer And Designer Specializing In Front-End And Back-End.
+- 🖌️ Using HTML, CSS, And JavaScript.
+- ⚙️ Using Frameworks Such As React.Js, Node.Js, And Express.
 <!--
 **labirinto-programmer/labirinto-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
